@@ -1,0 +1,96 @@
+.testimonialSection{
+	  background-image:url("./images/testimonialBg.jpg");
+	  min-height: 400px;
+	  background-position: 50% 50%;
+	  background-size: cover;
+}
+
+.testimonialHeading {
+  margin-top: 0px;
+  padding-top: 30px;
+  font-size: 38px;
+  font-family: Playfair Display SC;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+  text-align: center;
+}
+
+.testimonialComma {
+  text-align: center;
+  font-family: Playfair Display SC;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+  font-size: 89px;
+  line-height: 72px;
+  font-weight: 700;
+  margin-top: 7px;
+}
+
+.testimonialContent {
+  padding-top: 32px;
+  font-family: Poppins;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+  font-size: 23px;
+  line-height: 32px;
+}
+
+.testimonial{
+	max-width: 1100px;
+	text-align: center;
+	margin: auto;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container(form w3 school) */
+.slideshow-container2 {
+  position: relative;
+  margin: auto;
+  min-height: 400px;
+}
+
+/* Hide the images by default */
+.mySlides2 {
+  display: none;
+}
+
+/* Fading animation */
+.fade2 {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade2 {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade2 {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}

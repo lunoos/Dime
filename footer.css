@@ -1,0 +1,30 @@
+.footerSection {
+  min-height: 357px;
+  background-color: hsla(36.31578947368422, 33.33%, 22.35%, 1.00);
+}
+
+.footerContainer{
+	padding-top: 50px;
+}
+
+.footerImg {
+  display: block;
+  margin-right: auto;
+  margin-bottom: 16px;
+  margin-left: auto;
+}
+
+.footerNavMenue {
+  display: flex;
+  min-width: 550px;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 590px;
+  min-width: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+
+
