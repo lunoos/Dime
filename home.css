@@ -8,7 +8,7 @@
 }
 .homesection {
   min-height: 755px;
-  background-image: url("./images/bgImg.jpg");
+  background-image: url("./images/bgImg2.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -20,6 +20,7 @@
 .navbar {
   display: flex;
   justify-content: space-between;
+  padding-top: 19px;
 }
 .navmenu {
   display: flex;
