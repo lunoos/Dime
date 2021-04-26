@@ -1,17 +1,17 @@
 .locationsection {
-  min-height: 1000px;
-  background-color: hsla(45.00000000000004, 62.50%, 93.73%, 1.00);
+  min-height: 900px;
+  background-color: #E5E5E5;
 }
 .locationsectionflex {
   display: flex;
   justify-content: space-between;
 }
 .locationsection1 {
-  min-height: 1000px;
+  min-height: 900px;
   min-width: 50%;
 }
 .locationsection2 {
-  min-height: 1000px;
+  min-height: 900px;
   min-width: 50%;
 }
 .locationsectionheadding {
@@ -23,6 +23,7 @@
 .locationsectionimage {
   position: relative;
   left: -83px;
+  display: none;
 }
 .loactionsectionparagraph {
   max-width: 524px;
