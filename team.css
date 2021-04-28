@@ -3,10 +3,9 @@
   background-color: hsla(36.000000000000064, 41.67%, 95.29%, 1.00);
 }
 
-.teamContainer{
+.teamContainer2{
 	padding-top: 60px;
-	display:flex;
-	max-width:1000px;
+	
 }
 
 .teamHeading {
@@ -16,9 +15,10 @@
 }
 
 .teamContainer {
-  max-width: 804px;
   margin-right: auto;
   margin-left: auto;
+  display:flex;
+  max-width:1000px;
 }
 
 .teamFlex {
