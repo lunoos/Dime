@@ -16,9 +16,10 @@
 
 .teamContainer {
   max-width:1000px;
+  display:flex;
   margin-right: auto;
   margin-left: auto;
-  display:flex;
+  
   
 }
 
