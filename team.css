@@ -1,10 +1,12 @@
 .teamSection {
-  min-height: 1027px;
+  min-height: 595px;
   background-color: hsla(36.000000000000064, 41.67%, 95.29%, 1.00);
 }
 
 .teamContainer{
 	padding-top: 60px;
+	display:flex;
+	max-width:1000px;
 }
 
 .teamHeading {
