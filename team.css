@@ -15,10 +15,11 @@
 }
 
 .teamContainer {
+  max-width:1000px;
   margin-right: auto;
   margin-left: auto;
   display:flex;
-  max-width:1000px;
+  
 }
 
 .teamFlex {
