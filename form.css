@@ -1,0 +1,108 @@
+.formSection {
+  display: none;
+  position: absolute;
+  left: 35%;
+  top: 19%;
+  right: 0%;
+  bottom: -1%;
+  z-index: 2;
+  width: 500px;
+  height: 600px;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #257ba1;
+  border-right-style: solid;
+  border-right-width: 3px;
+  border-right-color: #257ba1;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #257ba1;
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: #257ba1;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background-color: hsla(45.00000000000004, 62.50%, 93.73%, 1.00);
+}
+.formContainer {
+  margin-top:40px;
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.formText {
+  margin-top: 20px:;
+  font-family: Playfair Display SC;
+  color: #257ba1;
+  font-size: 25px;
+}
+.formInput {
+  margin-bottom: 20px;
+  width: 400px;
+  height: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #257ba1;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #257ba1;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #257ba1;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #257ba1;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.formButton {
+  margin-bottom: 13px;
+  margin-left: 320px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: hsla(194.22680412371133, 54.19%, 64.90%, 1.00);
+  font-family: Poppins;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.formTextarea {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #257ba1;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #257ba1;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #257ba1;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #257ba1;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.formHideButton {
+  position: absolute;
+  left: auto;
+  top: 1%;
+  right: 1%;
+  bottom: auto;
+  border-top-left-radius: 70px;
+  border-top-right-radius: 70px;
+  border-bottom-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+  background-color: #f9f4e5;
+  color: hsla(198.38709677419354, 77.78%, 21.75%, 1.00);
+  font-size: 25px;
+}
