@@ -17,6 +17,7 @@
 .teamContainer {
   max-width:1000px;
   display:flex;
+  margin-top:25px;
   margin-right: auto;
   margin-left: auto;
   
@@ -29,6 +30,7 @@
 
 .teamMemInfo {
   background-color: hsla(0, 0.00%, 100.00%, 1.00);
+  max-height: 325px;
 }
 .teamMemName{
   font-size: 35px;
